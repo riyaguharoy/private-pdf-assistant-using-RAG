@@ -6,7 +6,7 @@ Private PDF Assistant is a local Retrieval-Augmented Generation (RAG) app for as
 
 The app is designed to run on modest hardware, including CPU-only laptops.
 
-screenshot.png
+[screenshot.png](https://github.com/riyaguharoy/private-pdf-assistant-using-RAG/blob/main/screenshot.png)
 
 ## Features
 
