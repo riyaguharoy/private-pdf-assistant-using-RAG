@@ -66,7 +66,7 @@ Settings are at the top of `rag.py`:
 | `CHUNK_SIZE` / `CHUNK_OVERLAP` | 1000 / 200 | Characters |
 | `TOP_K` | 4 | Chunks retrieved per question |
 
-The app runs models on CPU (`num_gpu: 0`) for compatibility with older GPUs. Remove that option in `rag.py` to use your GPU.
+The app runs models on CPU (`num_gpu: 0`) for compatibility with older GPUs. Remove that option in `rag.py` to use own GPU.
 
 ## Project structure
 
