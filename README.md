@@ -1,4 +1,4 @@
-# Private PDF Assistant
+# Private PDF Assistant using RAG
 
 **Retrieval-Augmented Generation on own machine.** Chat with PDFs fully offline: no internet, no API keys, and no data leaves the computer.
 
