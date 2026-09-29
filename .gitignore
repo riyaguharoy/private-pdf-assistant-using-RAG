@@ -1,0 +1,14 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Local data (your PDFs and vector store stay on your machine)
+uploads/
+chroma_db/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
